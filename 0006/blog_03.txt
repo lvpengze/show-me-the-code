@@ -1,0 +1,12 @@
+Contributing and support
+In order to offer the best experience to Go developers, we ask you to continue sharing your feedback with us by opening issues on GitHub. We also welcome every contribution from the community.
+
+If you need assistance with the Go extension for VS Code, you can connect with our team members on the #vscode channel on the Gophers Slack. Conversations between Go team members working on the extension will take place in the #vscode-dev channel in the same Slack workspace, and we welcome discussion on issues and contributions from all community members.
+
+From all of us in the Visual Studio Code and Go teams, we are excited for the future ahead and for the ability to work together to deliver world-class tooling to every developer working with Go, and we look forward continue collaborating with the community.
+
+Happy Coding!
+
+The VS Code Team
+
+P.S. You can also read the announcement from the Go team on The Go Blog.
